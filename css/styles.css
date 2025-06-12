@@ -1,0 +1,52 @@
+html {
+  scroll-behavior: smooth;
+}
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #ffffff;
+  color: #333333;
+  scroll-behavior: smooth;
+}
+h1,
+h2 {
+  font-family: "Pacifico", cursive;
+  color: #6a0dad;
+}
+.navbar {
+  background-color: #6a0dad;
+}
+.navbar-brand {
+  font-family: "Pacifico", cursive;
+  color: #ffffff !important;
+}
+.btn-primary {
+  background-color: #6a0dad;
+  border-color: #6a0dad;
+}
+.btn-outline-light {
+  color: #6a0dad;
+  border-color: #ffffff;
+}
+header {
+  background-color: #e6e6fa;
+  color: #6a0dad;
+}
+.feature {
+  background-color: #ffb6c1 !important;
+  color: #6a0dad;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+footer {
+  background-color: #6a0dad;
+  color: white;
+}
+.carousel-img {
+  height: 500px; /* Itt tudod beállítani a kívánt magasságot */
+  object-fit: cover;
+}
+.navbar-nav .nav-link {
+  color: #ffffff !important;
+}
